@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name           = 'multiride'
-  s.version        = '0.0.4'
+  s.version        = '0.0.5'
   s.date           = '2010-04-28'
   s.summary        = 'Check if you can ride train with a multiride pass'
   s.description    = 'A simple hello world gem'
