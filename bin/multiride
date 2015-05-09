@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'multiride'
-puts Multiride.cli(ARGV[0])
+puts Multiride::Cli.start(ARGV)
 
