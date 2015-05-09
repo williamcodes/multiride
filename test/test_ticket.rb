@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'ticket'
+require '../lib/ticket'
 
 class TicketTest < Minitest::Test
   def test_valid_for?

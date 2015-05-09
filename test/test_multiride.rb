@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'multiride'
+require '../lib/multiride'
 
 class MultirideTest < Minitest::Test
   def test_check_ticket

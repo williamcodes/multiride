@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'conductor'
+require '../lib/conductor'
 
 class ConductorTest < Minitest::Test
   def test_accepts?

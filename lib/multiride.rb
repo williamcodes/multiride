@@ -1,6 +1,6 @@
 require 'thor'
-require 'conductor'
-require 'ticket'
+require '../lib/conductor'
+require '../lib/ticket'
 
 module Multiride
   class Cli < Thor
